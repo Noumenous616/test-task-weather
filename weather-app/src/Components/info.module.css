@@ -1,0 +1,26 @@
+
+
+
+.info_block {
+    padding: 0;
+    display: grid;
+    group-area: Info;
+
+
+
+}
+
+.appTextOne {
+    font-family: 'Cormorant SC', serif;
+    font-size: 100px;
+    color: #463dff;
+    text-shadow: 1px 1px 2px black, 0 0 1em black;
+
+}
+.appTextTwo {
+    font-family: 'Cormorant SC', serif;
+    font-size: 50px;
+   margin-bottom: 50px;
+    color: #463dff;
+    text-shadow: 1px 1px 2px black, 0 0 1em black;
+}

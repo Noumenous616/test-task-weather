@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@600&display=swap');
+
+.weatherData {
+    display: grid;
+    grid-area: W;
+
+    font-family: 'Cormorant SC', serif;
+    font-size: 30px;
+    color: #463dff;
+    text-shadow: 1px 1px 1px black, 0 0 0em black;
+
+}
+.weatherData_data {
+    list-style-type: none;
+
+}
+
+
+
+.error {
+    font-size: 50px;
+    color: red;
+    justify-content: center;
+    transition: 0.5s;
+
+
+}
